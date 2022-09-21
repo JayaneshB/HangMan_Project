@@ -80,7 +80,6 @@ fun printGameStatus() {
 
 }
 
-
 fun print0Mistakes(){
     println("  |------|-")
     println("  |      | ")
@@ -90,7 +89,6 @@ fun print0Mistakes(){
     println("  |        ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
 
 fun print1Mistakes() {
@@ -102,7 +100,6 @@ fun print1Mistakes() {
     println("  |        ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
 
 fun print2Mistakes() {
@@ -114,7 +111,6 @@ fun print2Mistakes() {
     println("  |        ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
 
 fun print3Mistakes() {
@@ -126,9 +122,7 @@ fun print3Mistakes() {
     println("  |        ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
-
 fun print4Mistakes() {
     println("  |------|-")
     println("  |      | ")
@@ -138,10 +132,7 @@ fun print4Mistakes() {
     println("  |       ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
-
-
 fun print5Mistakes() {
     println("  |------|-")
     println("  |      | ")
@@ -151,9 +142,7 @@ fun print5Mistakes() {
     println("  |     /  ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
-
 fun print6Mistakes() {
     println("  |------|-")
     println("  |      | ")
@@ -163,5 +152,4 @@ fun print6Mistakes() {
     println("  |     / \\ ")
     println(" /|\\      ")
     println("/ | \\     ")
-
 }
